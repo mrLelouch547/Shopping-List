@@ -1,0 +1,35 @@
+html,
+body {
+    width: 50%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin-top: 20%;
+    width: 360px;
+}
+.items {
+    margin-top: 10%;
+    cursor: pointer;
+}
+#userInput {
+    width: 300px;
+    height: 46px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addButton {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    font-size: 25px;
+    vertical-align: middle;
+}
